@@ -2,7 +2,8 @@
 
 A modern web application built with React and Vite that connects gardening enthusiasts, enabling knowledge sharing and community engagement around sustainable gardening practices.
 
-![Gardening Community Platform](public/preview.png)
+![Gardening Community Platform](public/<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/16f55c95-67ca-4a94-baa9-a3000829d32a" />
+)
 
 ## ✨ Features
 
